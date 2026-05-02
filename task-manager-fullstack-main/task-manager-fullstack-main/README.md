@@ -411,33 +411,7 @@ git push heroku main
 - Connection pooling for database
 - Caching with Redis (optional)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Marampelly_Akhilesh**
-- GitHub: [@MARAMPELLYAKHILESH](https://github.com/MARAMPELLYAKHILESH)
-- LinkedIn: [Marampelly Akhilesh](www.linkedin.com/in/marampelly-akhilesh-232593260)
-- Email: marampelly.akhilesh001@gmail.com
-
-## 🙏 Acknowledgments
-
-- Express.js documentation
-- MongoDB documentation
-- JWT.io for token debugging
-- Socket.IO community
-- Node.js community
 
 
