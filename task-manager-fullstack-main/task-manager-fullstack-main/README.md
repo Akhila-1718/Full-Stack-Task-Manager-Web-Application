@@ -440,17 +440,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Socket.IO community
 - Node.js community
 
-## 📞 Support
 
-If you have any questions or issues:
-- Open an issue on GitHub
-- Email: marampelly.akhilesh001@gmail.com
-- Check the [Troubleshooting](#-troubleshooting) section
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
-**Built with ❤️ using Node.js, Express, and MongoDB**
